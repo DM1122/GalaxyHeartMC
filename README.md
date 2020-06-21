@@ -3,7 +3,7 @@ A repository for all the code running the Galaxy Heart Minecraft server.
 Developed by *Galaxy Heart Studios* :milky_way:
 
 ## Mod list
-* [cc-tweaked-1.15.2-1.89.0](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked/download/2981339/file)
+* [cc-tweaked-1.15.2-1.89.0](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
 * [collective-1.15.2-1.27](https://www.curseforge.com/minecraft/mc-mods/collective)
 * [FallingTree-1.15.2-2.1.4](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
 * [FastLeafDecay-v22](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
