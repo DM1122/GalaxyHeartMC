@@ -15,3 +15,5 @@ Developed by *Galaxy Heart Studios* :milky_way:
 
 
 TODO: Create separate mod lists for server and client-side mods.
+
+/gamerule reducedDebugInfo true
