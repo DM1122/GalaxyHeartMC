@@ -1,4 +1,4 @@
-# GalaxyHeartCraft
+# GalaxyHeartMC
 A repository for all the code running the Galaxy Heart Minecraft server.
 Developed by *Galaxy Heart Studios* :milky_way:
 
