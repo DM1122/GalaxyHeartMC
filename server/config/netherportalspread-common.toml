@@ -1,0 +1,26 @@
+
+[General]
+	#The message send on portal creation.
+	messageOnPortalCreation = "You feel a corrupt energy coming from the portal. The nether will slowly spread into the overworld unless %preventSpreadBlockAmountNeeded% %preventSpreadBlockString% are placed within a %portalSpreadRadius% block radius around the portal."
+	#When enabled, sends a message to players around the portal that the nether spread has stopped when the portal detects new 'preventSpreadBlockString' blocks.
+	sendMessageOnPreventSpreadBlocksFound = true
+	#The message send on preventspread blocks found.
+	messageOnPreventSpreadBlocksFound = "While placing the last %preventSpreadBlockString%, you feel the corrupted energy fade."
+	#The amount of blocks that are instantly converted to a nether block around a portal when it is detected. If there are existing nether blocks within the radius, their count is substracted from this number.
+	#Range: 0 ~ 1000
+	instantConvertAmount = 50
+	#The amount of prevent-spread-blocks (defined) needed within the radius of the nether portal to prevent spread.
+	preventSpreadBlockAmountNeeded = 4
+	#When enabled, blocks the spread effect when there are n (defined) prevent-spread-blocks (defined) within the radius.
+	preventSpreadWithBlock = true
+	#The radius around the portal to which the nether blocks can spread.
+	#Range: 1 ~ 100
+	portalSpreadRadius = 30
+	#The delay in ms in between the spread around the nether portal.
+	#Range: 20 ~ 360000
+	spreadDelay = 2500
+	#When enabled, sends a message to players around the portal that the nether is spreading and that you can stop the spread with 'preventSpreadBlockAmountNeeded' of the 'preventSpreadBlockString' block.
+	sendMessageOnPortalCreation = true
+	#The block which prevents the nether portal from spreading. By default a coal block (minecraft:coal_block is the namespace ID).
+	preventSpreadBlockString = "minecraft:coal_block"
+

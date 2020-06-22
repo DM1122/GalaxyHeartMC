@@ -1,0 +1,16 @@
+steps:
+  # clearing bucket
+- name: gcr.io/cloud-builders/gsutil
+  args: ['rm', '-f', '-r', 'gs://mc-staging-bucket/boot']
+- name: gcr.io/cloud-builders/gsutil
+  args: ['rm', '-f', '-r', 'gs://mc-staging-bucket/cloud_functions']
+- name: gcr.io/cloud-builders/gsutil
+  args: ['rm', '-f', '-r', 'gs://mc-staging-bucket/server']
+
+  # updating bucket from github
+- name: gcr.io/cloud-builders/gsutil
+  args: ['cp', '/workspace/boot', 'gs://mc-staging-bucket']
+- name: gcr.io/cloud-builders/gsutil
+  args: ['cp', '/workspace/cloud_functions', 'gs://mc-staging-bucket']
+- name: gcr.io/cloud-builders/gsutil
+  args: ['cp', '/workspace/server', 'gs://mc-staging-bucket']

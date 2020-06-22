@@ -1,0 +1,31 @@
+#When set to true, a tree will only be chopped down if the player is sneaking
+reverse_sneaking = false
+
+#Falling Tree configuration
+[trees]
+	#List of blocks that should not be considered as leaves (this wins over the whitelist)
+	logs_blacklisted = []
+	#When set to true, leaves that should naturally break will be broken instantly
+	leaves_breaking = false
+	#Additional list of blocks (those marked with the leaves tag will already be whitelisted) considered as leaves
+	logs_whitelisted = []
+	#The maximum size of a tree. If there's more logs than this value the tree won't be cut.
+	#Range: > 1
+	logs_max_count = 100
+	#Radius to force break leaves. If another tree is still holding the leaves they'll still be broken. If the leaves are persistent (placed by player) they'll also be destroyed. The radius is applied from one of the top most log blocks. break_leaves must be activated for this to take effect.
+	#Range: 0 ~ 10
+	leaves_breaking_force_radius = 0
+
+[tools]
+	#List of tools that should not be considered as tools (this wins over the whitelist)
+	blacklisted = []
+	#Additional list of tools (those marked with the axe tag will already be whitelisted) that can be used to chop down a tree
+	whitelisted = []
+	#When set to true, when a tree is broken and the tool is about to break we will just break one block and not the whole tree.
+	preserve = false
+	#Defines the number of times the damage is applied to the tool (ie: if 1 then breaking 5 logs will give 5 damage; if set to 2, breaking 5 logs will give 10 damage). This only applies when the tree is cut when using the mod.
+	#Range: > 1
+	damage_multiplicand = 1
+	#Ignore the durability loss of breaking all the logs. If set to true, no harm will be done to the tool
+	ignore_durability = false
+
