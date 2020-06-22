@@ -1,16 +1,7 @@
 steps:
-  # clearing bucket
+  # sync cloud scripts
+- name: 'gcr.io/cloud-builders/gsutil'
+  args: ['rsync', '-d', '-r', '/workspace/cloud', 'gs://mc-staging-bucket/cloud']
+  # sync server data
 - name: gcr.io/cloud-builders/gsutil
-  args: ['rm', '-f', '-r', 'gs://mc-staging-bucket/boot']
-- name: gcr.io/cloud-builders/gsutil
-  args: ['rm', '-f', '-r', 'gs://mc-staging-bucket/cloud_functions']
-- name: gcr.io/cloud-builders/gsutil
-  args: ['rm', '-f', '-r', 'gs://mc-staging-bucket/server']
-
-  # updating bucket from github
-- name: gcr.io/cloud-builders/gsutil
-  args: ['cp', '/workspace/boot', 'gs://mc-staging-bucket']
-- name: gcr.io/cloud-builders/gsutil
-  args: ['cp', '/workspace/cloud_functions', 'gs://mc-staging-bucket']
-- name: gcr.io/cloud-builders/gsutil
-  args: ['cp', '/workspace/server', 'gs://mc-staging-bucket']
+  args: ['rsync', '-d', '-r' '/workspace/server', 'gs://mc-staging-bucket/server']

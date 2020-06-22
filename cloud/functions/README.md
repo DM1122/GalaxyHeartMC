@@ -1,0 +1,1 @@
+These files have to be converted into a ZIP for google cloud functions to read them.
