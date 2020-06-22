@@ -1,7 +1,5 @@
 steps:
-  # sync cloud scripts
 - name: gcr.io/cloud-builders/gsutil
   args: ['rsync', '-d', '-r', '/workspace/cloud', 'gs://mc-staging-bucket/cloud']
-  # sync server data
 - name: gcr.io/cloud-builders/gsutil
   args: ['rsync', '-d', '-r' '/workspace/server', 'gs://mc-staging-bucket/server']
