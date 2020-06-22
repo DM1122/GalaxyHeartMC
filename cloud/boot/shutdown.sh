@@ -4,6 +4,9 @@
 # stop server
 sudo screen -r mcs -X stuff '/stop\n'
 
+sudo su
+cd ~
+
 # backup data
 gsutil rsync -d -r /home/server/world gs://mc-staging-bucket/world
 gsutil rsync -d -r /home/server/logs gs://mc-staging-bucket/logs
