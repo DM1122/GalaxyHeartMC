@@ -1,2 +1,2 @@
 @ECHO OFF
-java -Xms1G -Xmx3G -jar forge.jar
+java -Xms1G -Xmx6G -jar forge.jar
