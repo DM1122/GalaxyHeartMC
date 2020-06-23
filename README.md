@@ -14,14 +14,12 @@ Developed by *Galaxy Heart Studios* :milky_way:
 * FastLeafDecay [v22](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) (only servers need to have this mod)
 * cc-tweaked [1.15.2-1.89.1](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
 * GoProne [1.15.2-1.3.0](https://www.curseforge.com/minecraft/mc-mods/goprone) (Not required on the client, although clients without it will not be able to go prone)
-* Serene Seasons [1.15.2-1.2.18](https://www.curseforge.com/minecraft/mc-mods/serene-seasons) (make sure both the server and all players' clients have the same exact config files)
 * Infernal Mobs [1.15.2-1](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs)
 * AppleSkin [1.15.2-1.0.13](https://www.curseforge.com/minecraft/mc-mods/appleskin) (This is a mostly client-side mod, but it needs to be on the server in order to display accurate saturation/exhaustion values on the client.)
 * nhacampfire [1.15-2.3](https://www.curseforge.com/minecraft/mc-mods/no-hostiles-around-campfire)
 
 
 ## Client-Side Mod List
-* Serene Seasons [1.15.2-1.2.18](https://www.curseforge.com/minecraft/mc-mods/serene-seasons) (make sure both the server and all players' clients have the same exact config files)
 * cc-tweaked [1.15.2-1.89.1](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
 * GoProne [1.15.2-1.3.0](https://www.curseforge.com/minecraft/mc-mods/goprone) (not required on the client, although clients without it will not be able to go prone)
 * Sound Filters [1.15.2-0.13](https://www.curseforge.com/minecraft/mc-mods/sound-filters) (this is a little client-side mod that makes sound more interesting)
@@ -51,6 +49,7 @@ These are mods that are currenlty confirmed for use on the server once they have
 * Mob Dismemberment [1.12.2](https://www.curseforge.com/minecraft/mc-mods/mob-dismemberment)
 * EnhancedVisuals [1.12.2](https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals)
 * Dynamic Surroundings [1.12.2](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)
+* Serene Seasons [1.15.2-1.2.18](https://www.curseforge.com/minecraft/mc-mods/serene-seasons) (make sure both the server and all players' clients have the same exact config files) (does not currently work with the latest forge)
 
 ## Blacklist
 These mods have been deemed too radical to be accepted into the modpack
