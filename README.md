@@ -5,7 +5,7 @@ A repository for all the code running the Galaxy Heart Minecraft server.
 Developed by *Galaxy Heart Studios* :milky_way:
 
 ## Mod list
-* [cc-tweaked-1.15.2-1.89.0](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
+
 * [collective-1.15.2-1.27](https://www.curseforge.com/minecraft/mc-mods/collective)
 * [FallingTree-1.15.2-2.1.4](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
 * [FastLeafDecay-v22](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
@@ -16,21 +16,51 @@ Developed by *Galaxy Heart Studios* :milky_way:
 * [nhacampfire_1.15-2.3](https://www.curseforge.com/minecraft/mc-mods/no-hostiles-around-campfire)
 
 
-# Server-Side Mod List
+## Server-Side Mod List
+* [cc-tweaked-1.15.2-1.89.0](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
 * [TerraForged-1.15.2-0.0.14](https://www.curseforge.com/minecraft/mc-mods/terraforged)
+* GoProne [1.15.x-1.3.0](https://www.curseforge.com/minecraft/mc-mods/goprone) (Not required on the client, although clients without it will not be able to go prone)
+* Serene Seasons [1.15.2-3.0.0.72](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
+* Infernal Mobs [1.15.2-1.1.9](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs)
+* AppleSkin [1.15.2](https://www.curseforge.com/minecraft/mc-mods/appleskin) (This is a mostly client-side mod, but it needs to be on the server in order to display accurate saturation/exhaustion values on the client.)
 
-# Client-Side Mod List
+
+## Client-Side Mod List
 These mods must run client-side and cannot be installed server side
+* [cc-tweaked-1.15.2-1.89.0](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
 * [TerraForged-1.15.2-0.0.14](https://www.curseforge.com/minecraft/mc-mods/terraforged)
+* GoProne [1.15.x-1.3.0](https://www.curseforge.com/minecraft/mc-mods/goprone) (Not required on the client, although clients without it will not be able to go prone)
+* Sound Filters [0.13_for_1.15.2](https://www.curseforge.com/minecraft/mc-mods/sound-filters) (This is a little client-side mod that makes sound more interesting)
+* Let Sleeping Dogs Lie [1.15.2-1.1.0](https://www.curseforge.com/minecraft/mc-mods/let-sleeping-dogs-lie) (This mod is purely client-side)
+* AmbientSounds 3 [1.15.2](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) (will replace with MATmos once it is updated)
+* Inventory Profiles [1.15.2-0.2.1](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles)
+* AppleSkin [1.15.2](https://www.curseforge.com/minecraft/mc-mods/appleskin) (This is a mostly client-side mod, but it needs to be on the server in order to display accurate saturation/exhaustion values on the client.)
 
-# Client-Side only mod list
 
-
-# Watchlist
+## Watchlist
 These are mods that are currenlty confirmed for use on the server once they have been updated to the server version.
+* Optifine [1.14.4](https://www.optifine.net/home)
 * Dynamic Surroundings [1.14.4](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)
-* Serene Seasons [1.15.2](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
+* Weather, Storms & Tornadoes [1.12.2](https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes)
+* Fancy Block Particles [1.12.2](https://www.curseforge.com/minecraft/mc-mods/fancy-block-particles)
+* Vivecraft [1.12.2](http://www.vivecraft.org/) (waiting for Optifine to update)
+* Storage Drawers [1.12.2](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
+* Mo' Bends [v?](https://www.curseforge.com/minecraft/mc-mods/mo-bends)
+* MATmos [1.12.2](https://www.curseforge.com/minecraft/mc-mods/matmos)
+* DimensionalDoors [1.12.2](https://www.curseforge.com/minecraft/mc-mods/dimensionaldoors)
+* Damage Indicators [1.12.2](https://www.curseforge.com/minecraft/mc-mods/damage-indicators-mod)
+* Cubic Chunks [1.12.2](https://www.curseforge.com/minecraft/mc-mods/opencubicchunks)
+* BetterPortals [1.12.2](https://www.curseforge.com/minecraft/mc-mods/betterportals)
+* AtomicStryker's Battle Towers [1.12.2](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-battle-towers)
+* The Aether [1.12.2](https://www.curseforge.com/minecraft/mc-mods/the-aether)
+* The Aether II [1.7.10](https://www.curseforge.com/minecraft/mc-mods/the-aether-ii)
+* Mob Dismemberment [1.12.2](https://www.curseforge.com/minecraft/mc-mods/mob-dismemberment)
+* EnhancedVisuals [1.12.2](https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals)
 
-# TODO
+## Blacklist
+These mods have been deemed too radical to be accepted into the modpack
+* Dynamic Surroundings (adds sfx for non-existant mobs/ adds bee particles)
+
+## TODO
 * Server status badges
 * Automatic updatin of listed mod versions
