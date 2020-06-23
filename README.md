@@ -4,37 +4,31 @@
 A repository for all the code running the Galaxy Heart Minecraft server.
 Developed by *Galaxy Heart Studios* :milky_way:
 
-## Mod list
-
-* [collective-1.15.2-1.27](https://www.curseforge.com/minecraft/mc-mods/collective)
-* [FallingTree-1.15.2-2.1.4](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
-* [FastLeafDecay-v22](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
-* [healingcf_1.15-2.3](https://www.curseforge.com/minecraft/mc-mods/healing-campfire)
-* [netherportalspread_1.15-3.4](https://www.curseforge.com/minecraft/mc-mods/nether-portal-spread)
-* [PreGenForge-0.1.0-mc1.15.2](https://www.curseforge.com/minecraft/mc-mods/pregenforge)
-* [TerraForged-1.15.2-0.0.14](https://www.curseforge.com/minecraft/mc-mods/terraforged)
-* [nhacampfire_1.15-2.3](https://www.curseforge.com/minecraft/mc-mods/no-hostiles-around-campfire)
-
-
 ## Server-Side Mod List
-* [cc-tweaked-1.15.2-1.89.0](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
-* [TerraForged-1.15.2-0.0.14](https://www.curseforge.com/minecraft/mc-mods/terraforged)
+* TerraForged [1.15.2-0.0.14](https://www.curseforge.com/minecraft/mc-mods/terraforged)
+* collective [1.15.2-1.28](https://www.curseforge.com/minecraft/mc-mods/collective)
+* PreGenForge [1.15.2-0.1.0](https://www.curseforge.com/minecraft/mc-mods/pregenforge)
+* healingcf [1.15-2.3](https://www.curseforge.com/minecraft/mc-mods/healing-campfire)
+* netherportalspread [1.15-3.4](https://www.curseforge.com/minecraft/mc-mods/nether-portal-spread)
+* FallingTree [1.15.2-2.1.4](https://www.curseforge.com/minecraft/mc-mods/falling-tree) (this may work server-side only)
+* FastLeafDecay [v22](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) (only servers need to have this mod)
+* cc-tweaked [1.15.2-1.89.0](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
 * GoProne [1.15.x-1.3.0](https://www.curseforge.com/minecraft/mc-mods/goprone) (Not required on the client, although clients without it will not be able to go prone)
-* Serene Seasons [1.15.2-3.0.0.72](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
+* Serene Seasons [1.15.2-3.0.0.72](https://www.curseforge.com/minecraft/mc-mods/serene-seasons) (make sure both the server and all players' clients have the same exact config files)
 * Infernal Mobs [1.15.2-1.1.9](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs)
 * AppleSkin [1.15.2](https://www.curseforge.com/minecraft/mc-mods/appleskin) (This is a mostly client-side mod, but it needs to be on the server in order to display accurate saturation/exhaustion values on the client.)
+* nhacampfire [1.15-2.3](https://www.curseforge.com/minecraft/mc-mods/no-hostiles-around-campfire)
 
 
 ## Client-Side Mod List
-These mods must run client-side and cannot be installed server side
-* [cc-tweaked-1.15.2-1.89.0](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
-* [TerraForged-1.15.2-0.0.14](https://www.curseforge.com/minecraft/mc-mods/terraforged)
-* GoProne [1.15.x-1.3.0](https://www.curseforge.com/minecraft/mc-mods/goprone) (Not required on the client, although clients without it will not be able to go prone)
-* Sound Filters [0.13_for_1.15.2](https://www.curseforge.com/minecraft/mc-mods/sound-filters) (This is a little client-side mod that makes sound more interesting)
-* Let Sleeping Dogs Lie [1.15.2-1.1.0](https://www.curseforge.com/minecraft/mc-mods/let-sleeping-dogs-lie) (This mod is purely client-side)
-* AmbientSounds 3 [1.15.2](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) (will replace with MATmos once it is updated)
-* Inventory Profiles [1.15.2-0.2.1](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles)
-* AppleSkin [1.15.2](https://www.curseforge.com/minecraft/mc-mods/appleskin) (This is a mostly client-side mod, but it needs to be on the server in order to display accurate saturation/exhaustion values on the client.)
+* Serene Seasons [1.15.2-3.0.0.72](https://www.curseforge.com/minecraft/mc-mods/serene-seasons) (make sure both the server and all players' clients have the same exact config files)
+* cc-tweaked [1.15.2-1.89.0](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
+* GoProne [1.15.2-1.3.0](https://www.curseforge.com/minecraft/mc-mods/goprone) (not required on the client, although clients without it will not be able to go prone)
+* Sound Filters [1.15.2-0.13](https://www.curseforge.com/minecraft/mc-mods/sound-filters) (this is a little client-side mod that makes sound more interesting)
+* Let Sleeping Dogs Lie [1.15.2-1.1.0](https://www.curseforge.com/minecraft/mc-mods/let-sleeping-dogs-lie) (this mod is purely client-side)
+* AmbientSounds 3 [1.15.2](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) (will replace with MATmos or Dynamic Surroundings once it is updated)
+* Inventory Profiles [1.15.2-0.2.1](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles) (multiplayer is supported and mod is not required for server)
+* AppleSkin [1.15.2](https://www.curseforge.com/minecraft/mc-mods/appleskin) (this is a mostly client-side mod, but it needs to be on the server in order to display accurate saturation/exhaustion values on the client.)
 
 
 ## Watchlist
@@ -56,11 +50,12 @@ These are mods that are currenlty confirmed for use on the server once they have
 * The Aether II [1.7.10](https://www.curseforge.com/minecraft/mc-mods/the-aether-ii)
 * Mob Dismemberment [1.12.2](https://www.curseforge.com/minecraft/mc-mods/mob-dismemberment)
 * EnhancedVisuals [1.12.2](https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals)
+* Dynamic Surroundings [1.12.2](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)
 
 ## Blacklist
 These mods have been deemed too radical to be accepted into the modpack
-* Dynamic Surroundings (adds sfx for non-existant mobs/ adds bee particles)
 
 ## TODO
-* Server status badges
-* Automatic updatin of listed mod versions
+* Github badge for server status (online/offline)
+* Github badge for server player count
+* Automatic updating of listed mod versions
