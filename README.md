@@ -19,6 +19,7 @@ Developed by *Galaxy Heart Studios* :milky_way:
 * Infernal Mobs [1.15.2-1](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs)
 * AppleSkin [1.15.2-1.0.13](https://www.curseforge.com/minecraft/mc-mods/appleskin) (This is a mostly client-side mod, but it needs to be on the server in order to display accurate saturation/exhaustion values on the client.)
 * nhacampfire [1.15-2.3](https://www.curseforge.com/minecraft/mc-mods/no-hostiles-around-campfire)
+* Elenai Dodge [1.15.2-1.4.3](https://www.curseforge.com/minecraft/mc-mods/elenai-dodge)
 
 
 ## Client-Side Mod List
@@ -37,6 +38,7 @@ Developed by *Galaxy Heart Studios* :milky_way:
 * AmbientSounds 3 [1.15.2-3.0.20](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) (this mod is client-side only. Will replace with MATmos or Dynamic Surroundings once it is updated)
 * Inventory Profiles [1.15.2-0.2.1](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles) (multiplayer is supported and mod is not required for server)
 * AppleSkin [1.15.2](https://www.curseforge.com/minecraft/mc-mods/appleskin) (this is a mostly client-side mod, but it needs to be on the server in order to display accurate saturation/exhaustion values on the client.)
+* Elenai Dodge [1.15.2-1.4.3](https://www.curseforge.com/minecraft/mc-mods/elenai-dodge)
 
 
 ## Watchlist
@@ -64,6 +66,7 @@ These are mods that are currenlty confirmed for use on the server once they have
 * Useful Backpacks [1.15.2](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)
 * Locks [1.12.2](https://www.curseforge.com/minecraft/mc-mods/locks)
 * ChestLock [1.10.2](https://www.curseforge.com/minecraft/mc-mods/chestlock-protect-your-chests)
+* Survive [1.15.2](https://www.curseforge.com/minecraft/mc-mods/survive) (currently in early stages)
 
 
 ## Blacklist
