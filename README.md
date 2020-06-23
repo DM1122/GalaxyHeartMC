@@ -20,7 +20,7 @@ Developed by *Galaxy Heart Studios* :milky_way:
 * AppleSkin [1.15.2-1.0.13](https://www.curseforge.com/minecraft/mc-mods/appleskin) (This is a mostly client-side mod, but it needs to be on the server in order to display accurate saturation/exhaustion values on the client.)
 * nhacampfire [1.15-2.3](https://www.curseforge.com/minecraft/mc-mods/no-hostiles-around-campfire)
 * Elenai Dodge [1.15.2-1.4.3](https://www.curseforge.com/minecraft/mc-mods/elenai-dodge)
-
+* GraveStone [1.15.2-1.17.5](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 
 ## Client-Side Mod List
 * collective [1.15.2-1.28](https://www.curseforge.com/minecraft/mc-mods/collective)
@@ -39,7 +39,8 @@ Developed by *Galaxy Heart Studios* :milky_way:
 * Inventory Profiles [1.15.2-0.2.1](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles) (multiplayer is supported and mod is not required for server)
 * AppleSkin [1.15.2](https://www.curseforge.com/minecraft/mc-mods/appleskin) (this is a mostly client-side mod, but it needs to be on the server in order to display accurate saturation/exhaustion values on the client.)
 * Elenai Dodge [1.15.2-1.4.3](https://www.curseforge.com/minecraft/mc-mods/elenai-dodge)
-
+* Towers Of The Wild [1.15.2-1.2.0](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild)
+* GraveStone [1.15.2-1.17.5](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 
 ## Watchlist
 These are mods that are currenlty confirmed for use on the server once they have been updated to the server version.
@@ -62,12 +63,13 @@ These are mods that are currenlty confirmed for use on the server once they have
 * EnhancedVisuals [1.12.2](https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals)
 * Dynamic Surroundings [1.12.2](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)
 * Serene Seasons [1.15.2-1.2.18](https://www.curseforge.com/minecraft/mc-mods/serene-seasons) (make sure both the server and all players' clients have the same exact config files) (does not currently work with the latest forge)
-* GraveStone [1.15.2](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
-* Useful Backpacks [1.15.2](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)
 * Locks [1.12.2](https://www.curseforge.com/minecraft/mc-mods/locks)
 * ChestLock [1.10.2](https://www.curseforge.com/minecraft/mc-mods/chestlock-protect-your-chests)
 * Survive [1.15.2](https://www.curseforge.com/minecraft/mc-mods/survive) (currently in early stages)
-
+* Waystones [1.12.2](https://www.curseforge.com/minecraft/mc-mods/waystones)
+* Grappling Hook [1.12.2](https://www.curseforge.com/minecraft/mc-mods/grappling-hook-mod)
+* Useful Backpacks [1.15.2-1.9.4.63](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)
+* U Team Core [1.15.2-2.12.1.158](https://www.curseforge.com/minecraft/mc-mods/u-team-core) (depenency for Useful Backpacks, requires newer forge)
 
 ## Blacklist
 These mods have been deemed too radical to be accepted into the modpack
