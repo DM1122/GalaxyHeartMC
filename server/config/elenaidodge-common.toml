@@ -1,0 +1,24 @@
+
+[balance]
+	#How many half drumsticks the player needs to dodge. Set this to -1 to disable this feature. By default it's the same as sprinting, 6.
+	#Range: -1 ~ 20
+	hungerRequirement = 6
+	#How powerful each player's dodge is. Defaults at 1 which is just under 3 blocks.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	power = 1.0
+	#Set this to true to allow the player to dodge whilst in midair. Note the player always has this ability in creative mode.
+	allowDodgeWhileAirborne = false
+
+[cooldown]
+	#How long the dodge takes to cooldown in (roughly) seconds. This defaults to 4.
+	#Range: > 1
+	duration = 3
+	#Set this to false to disable the cooldown bar completely.
+	enabled = true
+
+[particles]
+	#Set this to true to enable fancy particles, many prefer the old particles so that is now the default.
+	fancy = false
+	#Set this to false to disable the particles emitted when a player dodges
+	enableParticles = true
+

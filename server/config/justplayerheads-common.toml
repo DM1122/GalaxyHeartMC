@@ -1,0 +1,8 @@
+
+[General]
+	#If enabled, allows players to drop their head on death.
+	playerDropsHeadOnDeath = true
+	#Sets the chance of a player dropping their head if 'playerDropsHeadOnDeath' is enabled.
+	#Range: 1.0E-4 ~ 1.0
+	playerHeadDropChance = 1.0
+
