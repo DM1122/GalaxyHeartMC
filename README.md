@@ -9,7 +9,7 @@ Developed by *Galaxy Heart Studios* :milky_way:
 
 ## Server-Side Mod List
 * TerraForged [1.15.2-0.0.14](https://www.curseforge.com/minecraft/mc-mods/terraforged)
-* collective [1.15.2-1.28](https://www.curseforge.com/minecraft/mc-mods/collective)
+* Collective [1.15.2-1.29](https://www.curseforge.com/minecraft/mc-mods/collective)
 * PreGenForge [1.15.2-0.1.0](https://www.curseforge.com/minecraft/mc-mods/pregenforge)
 * healingcf [1.15-2.3](https://www.curseforge.com/minecraft/mc-mods/healing-campfire)
 * netherportalspread [1.15-3.4](https://www.curseforge.com/minecraft/mc-mods/nether-portal-spread)
