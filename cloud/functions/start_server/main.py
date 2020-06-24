@@ -2,7 +2,7 @@ from googleapiclient import discovery
 
 project = 'minecraft-280820'
 zone = 'us-east1-b'
-instance = 'mc-server-1'
+instance = 'mc-server'
 
 def start_server(req):
     print('Sending server startup command...')
