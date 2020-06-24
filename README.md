@@ -6,6 +6,7 @@ Forge: 31.2.0
 A repository for all the code running the Galaxy Heart Minecraft server.
 Developed by *Galaxy Heart Studios* :milky_way:
 
+
 ## Server-Side Mod List
 * TerraForged [1.15.2-0.0.14](https://www.curseforge.com/minecraft/mc-mods/terraforged)
 * collective [1.15.2-1.28](https://www.curseforge.com/minecraft/mc-mods/collective)
@@ -21,6 +22,37 @@ Developed by *Galaxy Heart Studios* :milky_way:
 * nhacampfire [1.15-2.3](https://www.curseforge.com/minecraft/mc-mods/no-hostiles-around-campfire)
 * Elenai Dodge [1.15.2-1.4.3](https://www.curseforge.com/minecraft/mc-mods/elenai-dodge)
 * GraveStone [1.15.2-1.17.5](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
+* Bamboo Spreads [1.15.2-1.1](https://www.curseforge.com/minecraft/mc-mods/bamboo-spreads)
+* Bottle Your Xp [1.15.2-1.3](https://www.curseforge.com/minecraft/mc-mods/bottle-your-xp)
+* Crying Ghasts [1.15.2-1.1](https://www.curseforge.com/minecraft/mc-mods/crying-ghasts)
+* Despawning Eggs Hatch [1.15.2-1.3](https://www.curseforge.com/minecraft/mc-mods/despawning-eggs-hatch)
+* Cycle Paintings [1.15.2-1.3](https://www.curseforge.com/minecraft/mc-mods/cycle-paintings)
+* Dismount Entity [1.15.2-1.2](https://www.curseforge.com/minecraft/mc-mods/dismount-entity)
+* Double Doors [1.15.2-2.1](https://www.curseforge.com/minecraft/mc-mods/double-doors)
+* Dragon Drops Elytra [1.15.2-1.1](https://www.curseforge.com/minecraft/mc-mods/dragon-drops-elytra)
+* Easy Elytra [1.15.2-1.3](https://www.curseforge.com/minecraft/mc-mods/easy-elytra-takeoff)
+* Edibles [1.15.2-1.1](https://www.curseforge.com/minecraft/mc-mods/edibles)
+* Extract Poison [1.15.2-1.1](https://www.curseforge.com/minecraft/mc-mods/extract-poison)
+* Fall Through Slime [1.15.2-1.1](https://www.curseforge.com/minecraft/mc-mods/fall-through-slime)
+* Giant Spawn [1.15.2-2.1](https://www.curseforge.com/minecraft/mc-mods/giant-spawn)
+* Grass Seeds [1.15.2-1.2](https://www.curseforge.com/minecraft/mc-mods/grass-seeds)
+* GUI Clock [1.15.2-1.8](https://www.curseforge.com/minecraft/mc-mods/gui-clock)
+* GUI Compass [1.15.2-1.3](https://www.curseforge.com/minecraft/mc-mods/gui-compass)
+* Ice Prevents Crop Growth [1.15.2-1.0](https://www.curseforge.com/minecraft/mc-mods/ice-prevents-crop-growth)
+* Inventory Totem [1.15.2-1.1](https://www.curseforge.com/minecraft/mc-mods/inventory-totem)
+* Just Mob Heads [1.15.2-3.3](https://www.curseforge.com/minecraft/mc-mods/just-mob-heads)
+* Just Player Heads [1.15.2-1.1](https://www.curseforge.com/minecraft/mc-mods/just-player-heads)
+* Move Boats [1.15.2-1.2](https://www.curseforge.com/minecraft/mc-mods/move-boats)
+* Move Minecarts [1.15.2-1.3](https://www.curseforge.com/minecraft/mc-mods/move-minecarts)
+* Named Areas [1.15.2-3.8](https://www.curseforge.com/minecraft/mc-mods/named-areas)
+* Nutritious Milk [1.15.2-1.2](https://www.curseforge.com/minecraft/mc-mods/nutritious-milk)
+* Replanting Crops [1.15.2-1.3](https://www.curseforge.com/minecraft/mc-mods/replanting-crops)
+* Snowballs Freeze Mobs [1.15.2-1.1](https://www.curseforge.com/minecraft/mc-mods/snowballs-freeze-mobs)
+* Softer Hay Bales [1.15.2-1.1](https://www.curseforge.com/minecraft/mc-mods/softer-hay-bales)
+* Villager Death Messages [1.15.2-1.4](https://www.curseforge.com/minecraft/mc-mods/villager-death-messages)
+* Villager Names [1.15.2-2.4](https://www.curseforge.com/minecraft/mc-mods/villager-names)
+* Weaker Spiderwebs [1.15.2-1.4](https://www.curseforge.com/minecraft/mc-mods/weaker-spiderwebs)
+
 
 ## Client-Side Mod List
 * collective [1.15.2-1.28](https://www.curseforge.com/minecraft/mc-mods/collective)
@@ -41,6 +73,36 @@ Developed by *Galaxy Heart Studios* :milky_way:
 * Elenai Dodge [1.15.2-1.4.3](https://www.curseforge.com/minecraft/mc-mods/elenai-dodge)
 * Towers Of The Wild [1.15.2-1.2.0](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild)
 * GraveStone [1.15.2-1.17.5](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
+* Bamboo Spreads [1.15.2-1.1](https://www.curseforge.com/minecraft/mc-mods/bamboo-spreads)
+* Bottle Your Xp [1.15.2-1.3](https://www.curseforge.com/minecraft/mc-mods/bottle-your-xp)
+* Crying Ghasts [1.15.2-1.1](https://www.curseforge.com/minecraft/mc-mods/crying-ghasts)
+* Despawning Eggs Hatch [1.15.2-1.3](https://www.curseforge.com/minecraft/mc-mods/despawning-eggs-hatch)
+* Cycle Paintings [1.15.2-1.3](https://www.curseforge.com/minecraft/mc-mods/cycle-paintings)
+* Dismount Entity [1.15.2-1.2](https://www.curseforge.com/minecraft/mc-mods/dismount-entity)
+* Double Doors [1.15.2-2.1](https://www.curseforge.com/minecraft/mc-mods/double-doors)
+* Dragon Drops Elytra [1.15.2-1.1](https://www.curseforge.com/minecraft/mc-mods/dragon-drops-elytra)
+* Easy Elytra [1.15.2-1.3](https://www.curseforge.com/minecraft/mc-mods/easy-elytra-takeoff)
+* Edibles [1.15.2-1.1](https://www.curseforge.com/minecraft/mc-mods/edibles)
+* Extract Poison [1.15.2-1.1](https://www.curseforge.com/minecraft/mc-mods/extract-poison)
+* Fall Through Slime [1.15.2-1.1](https://www.curseforge.com/minecraft/mc-mods/fall-through-slime)
+* Giant Spawn [1.15.2-2.1](https://www.curseforge.com/minecraft/mc-mods/giant-spawn)
+* Grass Seeds [1.15.2-1.2](https://www.curseforge.com/minecraft/mc-mods/grass-seeds)
+* GUI Clock [1.15.2-1.8](https://www.curseforge.com/minecraft/mc-mods/gui-clock)
+* GUI Compass [1.15.2-1.3](https://www.curseforge.com/minecraft/mc-mods/gui-compass)
+* Ice Prevents Crop Growth [1.15.2-1.0](https://www.curseforge.com/minecraft/mc-mods/ice-prevents-crop-growth)
+* Inventory Totem [1.15.2-1.1](https://www.curseforge.com/minecraft/mc-mods/inventory-totem)
+* Just Mob Heads [1.15.2-3.3](https://www.curseforge.com/minecraft/mc-mods/just-mob-heads)
+* Just Player Heads [1.15.2-1.1](https://www.curseforge.com/minecraft/mc-mods/just-player-heads)
+* Move Boats [1.15.2-1.2](https://www.curseforge.com/minecraft/mc-mods/move-boats)
+* Move Minecarts [1.15.2-1.3](https://www.curseforge.com/minecraft/mc-mods/move-minecarts)
+* Named Areas [1.15.2-3.8](https://www.curseforge.com/minecraft/mc-mods/named-areas)
+* Nutritious Milk [1.15.2-1.2](https://www.curseforge.com/minecraft/mc-mods/nutritious-milk)
+* Replanting Crops [1.15.2-1.3](https://www.curseforge.com/minecraft/mc-mods/replanting-crops)
+* Snowballs Freeze Mobs [1.15.2-1.1](https://www.curseforge.com/minecraft/mc-mods/snowballs-freeze-mobs)
+* Softer Hay Bales [1.15.2-1.1](https://www.curseforge.com/minecraft/mc-mods/softer-hay-bales)
+* Villager Death Messages [1.15.2-1.4](https://www.curseforge.com/minecraft/mc-mods/villager-death-messages)
+* Villager Names [1.15.2-2.4](https://www.curseforge.com/minecraft/mc-mods/villager-names)
+
 
 ## Watchlist
 These are mods that are currenlty confirmed for use on the server once they have been updated to the server version.
@@ -71,8 +133,42 @@ These are mods that are currenlty confirmed for use on the server once they have
 * Useful Backpacks [1.15.2-1.9.4.63](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)
 * U Team Core [1.15.2-2.12.1.158](https://www.curseforge.com/minecraft/mc-mods/u-team-core) (depenency for Useful Backpacks, requires newer forge)
 
+
+## Whitelist
+These are mods under consideration that require greater scrutiny.
+* Grindstone Sharper Tools [1.15.2](https://www.curseforge.com/minecraft/mc-mods/grindstone-sharper-tools)
+* Healing Soup [1.15.2](https://www.curseforge.com/minecraft/mc-mods/healing-soup)
+* Hide Hands [1.15.2](https://www.curseforge.com/minecraft/mc-mods/hide-hands)
+* Kelp Fertilizer [1.15.2](https://www.curseforge.com/minecraft/mc-mods/kelp-fertilizer) (might make farming too easy)
+* Quick Paths [1.15.2](https://www.curseforge.com/minecraft/mc-mods/quick-paths)
+* Spiders Produce Webs [1.15.2](https://www.curseforge.com/minecraft/mc-mods/spiders-produce-webs)
+* Village Spawn Point [1.15.2](https://www.curseforge.com/minecraft/mc-mods/village-spawn-point) (might be cool in a gen2 world)
+
+
 ## Blacklist
 These mods have been deemed too radical to be accepted into the modpack
+* Milk All The Mobs [1.15.2](https://www.curseforge.com/minecraft/mc-mods/milk-all-the-mobs)
+* Mooshroom Spawn [1.15.2](https://www.curseforge.com/minecraft/mc-mods/mooshroom-spawn)
+* Mooshroom Tweaks [1.15.2](https://www.curseforge.com/minecraft/mc-mods/mooshroom-tweaks)
+* More Zombie Villagers [1.15.2](https://www.curseforge.com/minecraft/mc-mods/more-zombie-villagers)
+* Naturally Charged Creepers [1.15.2](https://www.curseforge.com/minecraft/mc-mods/naturally-charged-creepers)
+* Omega Mute [1.15.2](https://www.curseforge.com/minecraft/mc-mods/omega-mute)
+* Paper Books [1.15.2](https://www.curseforge.com/minecraft/mc-mods/paper-books)
+* Passive Endermen [1.15.2](https://www.curseforge.com/minecraft/mc-mods/passive-endermen)
+* Pet Names [1.15.2](https://www.curseforge.com/minecraft/mc-mods/pet-names)
+* Random Bone Meal Flowers [1.15.2](https://www.curseforge.com/minecraft/mc-mods/random-bone-meal-flowers)
+* Shulker Drops Two [1.15.2](https://www.curseforge.com/minecraft/mc-mods/shulker-drops-two)
+* Silence Mobs [1.15.2](https://www.curseforge.com/minecraft/mc-mods/silence-mobs)
+* Skeleton Horse Spawn [1.15.2](https://www.curseforge.com/minecraft/mc-mods/skeleton-horse-spawn)
+* Sleep Sooner [1.15.2](https://www.curseforge.com/minecraft/mc-mods/sleep-sooner)
+* Smaller Nether Portals [1.15.2](https://www.curseforge.com/minecraft/mc-mods/smaller-nether-portals)
+* Stray Spawn [1.15.2](https://www.curseforge.com/minecraft/mc-mods/stray-spawn)
+* TNT Breaks Bedrock [1.15.2](https://www.curseforge.com/minecraft/mc-mods/tnt-breaks-bedrock)
+* Transcending Trident [1.15.2](https://www.curseforge.com/minecraft/mc-mods/transcending-trident)
+* Tree Harvester [1.15.2](https://www.curseforge.com/minecraft/mc-mods/tree-harvester) (might conflict with FallingTree)
+* Underwater Enchanting [1.15.2](https://www.curseforge.com/minecraft/mc-mods/underwater-enchanting)
+* Zombie Horse Spawn [1.15.2](https://www.curseforge.com/minecraft/mc-mods/zombie-horse-spawn)
+* Zombie Villagers From Spawner [1.15.2](https://www.curseforge.com/minecraft/mc-mods/zombie-villagers-from-spawner)
 
 ## TODO
 * Github badge for server status (online/offline)
