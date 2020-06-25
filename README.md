@@ -106,7 +106,6 @@ Developed by *Galaxy Heart Studios* :milky_way:
 
 ## Watchlist
 These are mods that are currenlty confirmed for use on the server once they have been updated to the server version.
-* Optifine [1.14.4](https://www.optifine.net/home)
 * Dynamic Surroundings [1.14.4](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)
 * Weather, Storms & Tornadoes [1.12.2](https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes)
 * Fancy Block Particles [1.12.2](https://www.curseforge.com/minecraft/mc-mods/fancy-block-particles)
@@ -132,6 +131,11 @@ These are mods that are currenlty confirmed for use on the server once they have
 * Grappling Hook [1.12.2](https://www.curseforge.com/minecraft/mc-mods/grappling-hook-mod)
 * Useful Backpacks [1.15.2-1.9.4.63](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)
 * U Team Core [1.15.2-2.12.1.158](https://www.curseforge.com/minecraft/mc-mods/u-team-core) (depenency for Useful Backpacks, requires newer forge)
+* Player Tracking Compass [1.15.2](https://www.curseforge.com/minecraft/mc-mods/player-tracking-compass)
+
+| Mod | Description | Version |
+| --- | ----------- | ------- |
+| Optifine | Lighting engine overhaul | [1.14.4](https://www.optifine.net/home) |
 
 
 ## Whitelist
