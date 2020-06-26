@@ -10,7 +10,7 @@ Developed by *Galaxy Heart Studios* :milky_way:
 ## How to Join
 Joining a modded server is simple! Follow these steps:
 1. Install [forge](http://files.minecraftforge.net), ensuring the forge version matches the server's.
-1. Download the mods from the 'client' folder in this repository.
+1. Download the client-side mods from [modpack.galaxyheart.net](modpack.galaxyheart.net)
 1. Drag the mods into the minecraft mods folder, and you're set!
 
 Be sure to check back frequently in case the mod list has changed.
@@ -32,6 +32,11 @@ stop.galaxyheart.net
 See most up-to-date mod list:
 ```
 readme.galaxyheart.net
+```
+
+Download server modpack:
+```
+modpack.galaxyheart.net
 ```
 
 ## Server-Side Mod List
