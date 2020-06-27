@@ -165,9 +165,15 @@ These are mods that are currenlty confirmed for use on the server once they have
 * U Team Core [1.15.2-2.12.1.158](https://www.curseforge.com/minecraft/mc-mods/u-team-core) (depenency for Useful Backpacks, requires newer forge)
 * Player Tracking Compass [1.15.2](https://www.curseforge.com/minecraft/mc-mods/player-tracking-compass)
 
-| Mod | Description | Version |
+| Mod | Description | Version | Type |
 | --- | ----------- | ------- |
 | Optifine | Lighting engine overhaul | [1.14.4](https://www.optifine.net/home) |
+| Backpacked | Simple backpack mod | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/backpacked) |
+| Immersive Portals | See through portals | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge)
+| MixinBootstrap | Dependency for Immersive Portals | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap)
+| Nimble | 3rd person camera transitiion | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/nimble)
+| Rare Ice | Rare items enclosed in ice | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/rare-ice)
+| Disk Holder Mod | Adds a disk holder | [1.14.4](https://www.curseforge.com/minecraft/mc-mods/disc-holder)
 
 
 ## Whitelist
