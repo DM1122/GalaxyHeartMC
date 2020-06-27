@@ -39,6 +39,9 @@ Download server modpack:
 modpack.galaxyheart.net
 ```
 
+## Known Bugs
+* Some players report not hearing any audio. This is believed to be a conflict with the Atmospheric Surrounding mod and SoundFilters mod. Remove one or the other and try again.
+
 ## Server-Side Mod List
 * TerraForged [1.15.2-0.0.14](https://www.curseforge.com/minecraft/mc-mods/terraforged)
 * Collective [1.15.2-1.29](https://www.curseforge.com/minecraft/mc-mods/collective)
@@ -167,13 +170,13 @@ These are mods that are currenlty confirmed for use on the server once they have
 
 | Mod | Description | Version | Type |
 | --- | ----------- | ------- |
-| Optifine | Lighting engine overhaul | [1.14.4](https://www.optifine.net/home) |
-| Backpacked | Simple backpack mod | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/backpacked) |
-| Immersive Portals | See through portals | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge)
-| MixinBootstrap | Dependency for Immersive Portals | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap)
-| Nimble | 3rd person camera transitiion | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/nimble)
-| Rare Ice | Rare items enclosed in ice | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/rare-ice)
-| Disk Holder Mod | Adds a disk holder | [1.14.4](https://www.curseforge.com/minecraft/mc-mods/disc-holder)
+| Optifine | Lighting engine overhaul | [1.14.4](https://www.optifine.net/home) | NA
+| Backpacked | Simple backpack mod | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/backpacked) | NA
+| Immersive Portals | See through portals | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge)| NA
+| MixinBootstrap | Dependency for Immersive Portals | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap) | NA
+| Nimble | 3rd person camera transitiion | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/nimble) | NA
+| Rare Ice | Rare items enclosed in ice | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/rare-ice) | NA
+| Disk Holder Mod | Adds a disk holder | [1.14.4](https://www.curseforge.com/minecraft/mc-mods/disc-holder) | NA
 
 
 ## Whitelist
