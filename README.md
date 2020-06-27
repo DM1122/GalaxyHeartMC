@@ -169,7 +169,7 @@ These are mods that are currenlty confirmed for use on the server once they have
 * Player Tracking Compass [1.15.2](https://www.curseforge.com/minecraft/mc-mods/player-tracking-compass)
 
 | Mod | Description | Version | Type |
-| --- | ----------- | ------- |
+| --- | ----------- | ------- | ---- |
 | Optifine | Lighting engine overhaul | [1.14.4](https://www.optifine.net/home) | NA
 | Backpacked | Simple backpack mod | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/backpacked) | NA
 | Immersive Portals | See through portals | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge)| NA
