@@ -17,26 +17,26 @@ Be sure to check back frequently in case the mod list has changed.
 
 ## Server Commands
 
-Type these into your web browser. Please 
+Type these URLS into your web browser.
 
-Start server:
+### Start server:
 ```
 start.galaxyheart.net
 ```
 Check to make sure the server isn't already running before using this command.
 
-Stop server:
+### Stop server:
 ```
 stop.galaxyheart.net
 ```
 As a courtesy, ensure no one else is playing on the server before shutting it down. If you're the last one to exit the server, run this command.
 
-See most up-to-date mod list:
+### See most up-to-date mod list:
 ```
 readme.galaxyheart.net
 ```
 
-Download server modpack:
+### Download server modpack:
 ```
 modpack.galaxyheart.net
 ```
