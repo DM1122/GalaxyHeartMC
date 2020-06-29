@@ -3,17 +3,20 @@
 [![Forge Version](https://img.shields.io/static/v1?label=Forge&message=31.2.0&color=orange&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADTElEQVRYha1Xz08iMRit8vPC4sFEDSSGg+tJDx50D3Jw3Yv7N6/rAU8e15jVFUxI0CyBIEZFBwZn8zq8oe10hsH1JU07naHvfa/t1yI+Cnt7XzyUeYdb+F/+/f2qJM1kMvJ5NBrJ+vS0lmjsdwsgcaFQ0PpfX1/nEjK3gIODr5I4n89r/fl8zhDiaIJOTn5auRILIPGUMG8lNjFLSHoWMa1eWipOBnKs3/X7D0L9js+mUxsbn+V419d/FmIFmBGTmBGbQkhEYuLx8VG22u22SKVSYjwea+9DAkgcjkS3OuqZdafTlXW325WkILchELC7u2uN2LQ+ygGi1+vJFnYBihqxGb3mQKHwSdbDIYmKiSJmpMRgMAhygolYASDOZnOy5HJZ4Ti+EM/TCc1Vzf0OYhN8l2gK1OghgFiYbBrTcg6utlGrGXGW/SEBABxwnGEghG3i7e0tiBhkqhBhSckmbm4aWh5YZAOW0/Zp3zA0gOuOxMODvtW44IRhuxm5Sa45kMv5c8xpgBOqC6zR//w80FxAwZrAPHNtqLARE6EX1WrVgxPcFep6EJPEgtygWo02+hktFxyzXRwWzXe1mn96DYe+/YiaU0EH4iyngCTkgDUVn52dBT8+PPzmcVpUqIsM0WezU6ei8oANIQdMHB//mDjiBAXRonC+aTn6SM5DbBZibVIvHU9P/qGC9XF/3xfsN/MBBBSLehaNu5RYXxwdfZ9cOqbpt9lsBu10Oi1cdxyQEuVyWbboTKvVkjX7bZeSUMf29rZXKvk/aLf/ynpzc1PWV1dXkhxbFluR5CQgQIx3a2trsodputPphLakdRGaxI1GQ9br6+uyxhELLC8vaxGzn4J4FwBxFEICeLFwXVdcXFzIiG3E4Ob5wIgrlYom6O7uThvbdiCFBIAYpCjE7e2tbJVKJVnjGd9hBkFsmwKTNOpEtAoQk4WGgmjQB2e4EFdWVq2GYo2oJGxHHcWAdRfs7Ox4IljtbuSPKaRerwdRqglJKJGjtmXH2DzAa5opgsJQXl78+YZDcAs1dweP68vL3/PlAZsQdWpUICkhQpKph1Qc8VwCCHNqUHBlU4mB8/Nficd9139DJCu2eWdMGvGHAkK2tqZi5oYQ4h+BCztzZlrBvQAAAABJRU5ErkJggg==)](http://files.minecraftforge.net)
 
 # GalaxyHeartMC
-A repository for all the code running the Galaxy Heart Minecraft server.
+Welcome to the Galaxy Heart Minecraft server repository! Read below to get started.
 
-Developed by *Galaxy Heart Studios* :milky_way:
+Run by *Galaxy Heart Studios* :milky_way:
+
 
 ## How to Join
 Joining a modded server is simple! Follow these steps:
 1. Install [forge](http://files.minecraftforge.net), ensuring the forge version matches the server's.
 1. Download the client-side mods from [modpack.galaxyheart.net](modpack.galaxyheart.net)
-1. Drag the mods into the minecraft mods folder, and you're set!
+1. Drag the mods into the minecraft mods folder
+1. Profit
 
 Be sure to check back frequently in case the mod list has changed.
+
 
 ## Server Commands
 
@@ -36,154 +39,153 @@ As a courtesy, ensure no one else is playing on the server before shutting it do
 readme.galaxyheart.net
 ```
 
-### Download server modpack:
+### Download modpack:
 ```
 modpack.galaxyheart.net
 ```
 
+
 ## Known Bugs
-* Some players report not hearing any audio. This is believed to be a conflict with the Atmospheric Surrounding mod and SoundFilters mod. Remove one or the other and try again.
+* Some players report not hearing any audio. This is believed to be a conflict with the AmbientSounds 3 and SoundFilters mod. Remove one or the other and try again.
 
 
 ## Mod List
-| Mod | Description | Version | Game | Type |
-| --- | ----------- | ------- | ---- | ---- | 
-| TerraForged | Realistic terrain generation | [0.0.14](https://www.curseforge.com/minecraft/mc-mods/terraforged) | 1.15.2 | SC |
-| Collective | Dependency for all of Serilum's mods | [1.29](https://www.curseforge.com/minecraft/mc-mods/collective) | 1.15.2 | ? |
-| Healing Campfire | Campfire heals nearby players | [2.3](https://www.curseforge.com/minecraft/mc-mods/healing-campfire) | 1.15.2 | ? |
-| Nether Portal Spread | Nether portal spreads nether blocks | [3.4](https://www.curseforge.com/minecraft/mc-mods/nether-portal-spread) | 1.15.2 | ? |
-| Falling Tree | Break full tree at once | [2.1.4](https://www.curseforge.com/minecraft/mc-mods/falling-tree) | 1.15.2 | ? |
-| Fast Leaf Decay | Speeds up leaf decay | [22](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) | 1.15.2 | S |
-| CC: Tweaked | Program turtles | [1.89.1](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked) | 1.15.2 | ? |
-| GoProne | Allows crawling via keybinding | [1.3.0](https://www.curseforge.com/minecraft/mc-mods/goprone) | 1.15.2 | SC |
-| Infernal Mobs | Imbues hostile mobs with Diablo-style buffs | [1](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs) | 1.15.2 | ? |
-| AppleSkin | Displays food info in HUD | [1.0.13](https://www.curseforge.com/minecraft/mc-mods/appleskin) | 1.15.2 | SC |
-| No Hostiles Around Campfire | Prevents hostile mob spawns around a campfire | [2.3](https://www.curseforge.com/minecraft/mc-mods/no-hostiles-around-campfire) | 1.15.2 | ? |
-| Elenai Dodge | Adds dodging ability | [1.4.3](https://www.curseforge.com/minecraft/mc-mods/elenai-dodge) | 1.15.2 | ? |
-| Gravestone | Items dropped on death are stored in gravestone | [1.17.5](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod) | 1.15.2 | ? |
-| Bamboo Spreads | Makes bamboo spread | [1.1](https://www.curseforge.com/minecraft/mc-mods/bamboo-spreads) | 1.15.2 | ? |
-| Bottle Your XP | Allows storing XP in bottles | [1.3](https://www.curseforge.com/minecraft/mc-mods/bottle-your-xp) | 1.15.2 | ? |
-| Crying Ghasts | Makes ghasts drop their tears | [1.1](https://www.curseforge.com/minecraft/mc-mods/crying-ghasts) | 1.15.2 | ? |
-| Despawning Eggs Hatch | Makes baby chickens spawn from eggs | [1.3](https://www.curseforge.com/minecraft/mc-mods/despawning-eggs-hatch) | 1.15.2 | ? |
-| Cycle Paintings | Allows switching paintings without breaking | [1.3](https://www.curseforge.com/minecraft/mc-mods/cycle-paintings) | 1.15.2 | ? |
-| Dismount Entity | Allows players to dismount mobs from vehicle | [1.2](https://www.curseforge.com/minecraft/mc-mods/dismount-entity) | 1.15.2 | ? |
-| Double Doors | Open and close two doors at once | [2.1](https://www.curseforge.com/minecraft/mc-mods/double-doors) | 1.15.2 | ? |
-| Dragon Drops Elytra | Adds Elytra to dragon loot table | [1.1](https://www.curseforge.com/minecraft/mc-mods/dragon-drops-elytra) | 1.15.2 | ? |
-| Easy Elytra | Allows taking off using firework without jump | [1.3](https://www.curseforge.com/minecraft/mc-mods/easy-elytra-takeoff) | 1.15.2 | ? |
-| Edibles | Makes various ingredients edible with buffs | [1.1](https://www.curseforge.com/minecraft/mc-mods/edibles) | 1.15.2 | ? |
-| Extract Poison | Allows obtaining poison through spiders | [1.1](https://www.curseforge.com/minecraft/mc-mods/extract-poison) | 1.15.2 | ? |
-| Fall Through Slime | Makes players sink through slime blocks | [1.1](https://www.curseforge.com/minecraft/mc-mods/fall-through-slime) | 1.15.2 | ? |
-| Giant Spawn | Adds giant zombies | [2.1](https://www.curseforge.com/minecraft/mc-mods/giant-spawn) | 1.15.2 | ? |
-| Grass Seeds | Allows creation of grass blocks using seeds | [1.2](https://www.curseforge.com/minecraft/mc-mods/grass-seeds) | 1.15.2 | ? |
-| GUI Clock | Adds time display when clock is in inventory | [1.8](https://www.curseforge.com/minecraft/mc-mods/gui-clock) | 1.15.2 | ? |
-| GUI Compass | Adds compass display when compass is in inventory | [1.3](https://www.curseforge.com/minecraft/mc-mods/gui-compass) | 1.15.2 | C |
-| Ice Prevents Crop Growth | Crops freeze beside ice | [1.0](https://www.curseforge.com/minecraft/mc-mods/ice-prevents-crop-growth) | 1.15.2 | ? |
-| Inventory Totem | Allows the use of totem without holding it | [1.1](https://www.curseforge.com/minecraft/mc-mods/inventory-totem) | 1.15.2 | ? |
-| Just Mob Heads | Adds mob heads | [3.3](https://www.curseforge.com/minecraft/mc-mods/just-mob-heads) | 1.15.2 | ? |
-| Just Player Heads | Adds player heads | [1.1](https://www.curseforge.com/minecraft/mc-mods/just-player-heads) | 1.15.2 | ? |
-| Move Boats | Allows pickup of boats | [1.2](https://www.curseforge.com/minecraft/mc-mods/move-boats) | 1.15.2 | ? |
-| Move Minecarts | Allows pickup of minecarts | [1.2](https://www.curseforge.com/minecraft/mc-mods/move-minecarts) | 1.15.2 | ? |
-| Nutritious Milk | Enables drinking milk | [1.2](https://www.curseforge.com/minecraft/mc-mods/nutritious-milk) | 1.15.2 | ? |
-| Replanting Crops | Auto-replants crops | [1.3](https://www.curseforge.com/minecraft/mc-mods/replanting-crops) | 1.15.2 | ? |
-| Snowballs Freeze Mobs | Makes mobs freeze when hit with snowballs | [1.1](https://www.curseforge.com/minecraft/mc-mods/snowballs-freeze-mobs) | 1.15.2 | ? |
-| Softer Hay Bales | Prevents falling damage on hay bales | [1.1](https://www.curseforge.com/minecraft/mc-mods/softer-hay-bales) | 1.15.2 | ? |
-| Villager Death Messages | Sends message when villagers die | [1.4](https://www.curseforge.com/minecraft/mc-mods/villager-death-messages) | 1.15.2 | ? |
-| Villager Names | Gives villagers names | [2.4](https://www.curseforge.com/minecraft/mc-mods/villager-names) | 1.15.2 | ? |
-| Weaker Spiderwebs | Makes spiderwebs break when walking through them | [1.4](https://www.curseforge.com/minecraft/mc-mods/weaker-spiderwebs) | 1.15.2 | ? |
-| Sound Filters | Realistic audio reverb | [0.13](https://www.curseforge.com/minecraft/mc-mods/sound-filters) | 1.15.2 | C |
-| Let Sleeping Dogs Lie | Lets dogs lie down | [1.1.0](https://www.curseforge.com/minecraft/mc-mods/let-sleeping-dogs-lie) | 1.15.2 | C |
-| AmbientSounds 3 | Realistic environmental sounds | [3.0.20](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) | 1.15.2 | C |
-| Inventory Profiles | Sort inventory | [0.2.1](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles) | 1.15.2 | C |
-| Towers Of The Wild | Adds towers to terrain generation | [1.2.0](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild) | 1.15.2 | ? |
+| Mod                         | ID     | Description                                       | Type | Version | Newest                                                                                                                                        |
+| --------------------------- | ------ | ------------------------------------------------- | ---- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| AmbientSounds 3             | 254284 | Realistic environmental sounds                    | C    | 3.0.20  | [![newest](https://curse.nikky.moe/api/img/254284?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)                |
+| AppleSkin                   | 248787 | Displays food info in HUD                         | SC   | 1.0.13  | [![newest](https://curse.nikky.moe/api/img/248787?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/appleskin)                    |
+| Areas                       | 391701 | Add named areas via signs                         | SC   | 1.0     | [![newest](https://curse.nikky.moe/api/img/391701?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/areas)                        |
+| Backpacked                  | 352835 | Simple backpack mod                               |      |         | [![newest](https://curse.nikky.moe/api/img/352835?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/backpacked)                   |
+| Bamboo Spreads              | 378983 | Makes bamboo spread                               |      |         | [![newest](https://curse.nikky.moe/api/img/378983?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/bamboo-spreads)               |
+| Bottle Your XP              | 344020 | Allows storing XP in bottles                      |      |         | [![newest](https://curse.nikky.moe/api/img/344020?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/bottle-your-xp)               |
+| CC: Tweaked                 | 282001 | Program turtles                                   |      |         | [![newest](https://curse.nikky.moe/api/img/282001?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)                   |
+| Collective                  | 342584 | Dependency for all of Serilum's mods              |      |         | [![newest](https://curse.nikky.moe/api/img/342584?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/collective)                   |
+| Crying Ghasts               | 344360 | Makes ghasts drop their tears                     |      |         | [![newest](https://curse.nikky.moe/api/img/344360?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/crying-ghasts)                |
+| Cycle Paintings             | 345973 | Allows switching paintings without breaking       |      |         | [![newest](https://curse.nikky.moe/api/img/345973?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/cycle-paintings)              |
+| Despawning Eggs Hatch       | 347608 | Makes baby chickens spawn from eggs               |      |         | [![newest](https://curse.nikky.moe/api/img/347608?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/despawning-eggs-hatch)        |
+| Dismount Entity             | 348262 | Allows players to dismount mobs from vehicle      |      |         | [![newest](https://curse.nikky.moe/api/img/348262?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/dismount-entity)              |
+| Double Doors                | 348831 | Open and close two doors at once                  |      |         | [![newest](https://curse.nikky.moe/api/img/348831?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/double-doors)                 |
+| Dragon Drops Elytra         | 302422 | Adds Elytra to dragon loot table                  |      |         | [![newest](https://curse.nikky.moe/api/img/302422?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/dragon-drops-elytra)          |
+| Easy Elytra                 | 347898 | Allows taking off using firework without jump     |      |         | [![newest](https://curse.nikky.moe/api/img/347898?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/easy-elytra-takeoff)          |
+| Edibles                     | 374240 | Makes various ingredients edible with buffs       |      |         | [![newest](https://curse.nikky.moe/api/img/374240?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/edibles)                      |
+| Elenai Dodge                | 373104 | Adds dodging ability                              |      |         | [![newest](https://curse.nikky.moe/api/img/373104?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/elenai-dodge)                 |
+| Extract Poison              | 344991 | Allows obtaining poison through spiders           |      |         | [![newest](https://curse.nikky.moe/api/img/344991?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/extract-poison)               |
+| Fall Through Slime          | 344421 | Makes players sink through slime blocks           |      |         | [![newest](https://curse.nikky.moe/api/img/344421?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/fall-through-slime)           |
+| Falling Tree                | 349559 | Break full tree at once                           |      |         | [![newest](https://curse.nikky.moe/api/img/349559?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/falling-tree)                 |
+| Fast Leaf Decay             | 230976 | Speeds up leaf decay                              | S    |         | [![newest](https://curse.nikky.moe/api/img/230976?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)              |
+| GUI Clock                   | 347529 | Adds time display when clock is in inventory      |      |         | [![newest](https://curse.nikky.moe/api/img/347529?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/gui-clock)                    |
+| GUI Compass                 | 347595 | Adds compass display when compass is in inventory | C    |         | [![newest](https://curse.nikky.moe/api/img/347595?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/gui-compass)                  |
+| Giant Spawn                 | 347921 | Adds giant zombies                                |      |         | [![newest](https://curse.nikky.moe/api/img/347921?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/giant-spawn)                  |
+| GoProne                     | 327968 | Allows crawling via keybinding                    | SC   |         | [![newest](https://curse.nikky.moe/api/img/327968?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/goprone)                      |
+| Grass Seeds                 | 345981 | Allows creation of grass blocks using seeds       |      |         | [![newest](https://curse.nikky.moe/api/img/345981?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/grass-seeds)                  |
+| Gravestone                  | 238551 | Items dropped on death are stored in gravestone   |      |         | [![newest](https://curse.nikky.moe/api/img/238551?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)               |
+| Healing Campfire            | 342623 | Campfire heals nearby players                     |      |         | [![newest](https://curse.nikky.moe/api/img/342623?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/healing-campfire)             |
+| Ice Prevents Crop Growth    | 390161 | Crops freeze beside ice                           |      |         | [![newest](https://curse.nikky.moe/api/img/390161?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/ice-prevents-crop-growth)     |
+| Infernal Mobs               | 227875 | Imbues hostile mobs with Diablo-style buffs       |      |         | [![newest](https://curse.nikky.moe/api/img/227875?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs) |
+| Inventory Profiles          | 347463 | Sort inventory                                    | C    |         | [![newest](https://curse.nikky.moe/api/img/347463?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles)           |
+| Inventory Totem             | 349071 | Allows the use of totem without holding it        |      |         | [![newest](https://curse.nikky.moe/api/img/349071?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/inventory-totem)              |
+| Just Mob Heads              | 293320 | Adds mob heads                                    |      |         | [![newest](https://curse.nikky.moe/api/img/293320?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/just-mob-heads)               |
+| Just Player Heads           | 303441 | Adds player heads                                 |      |         | [![newest](https://curse.nikky.moe/api/img/303441?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/just-player-heads)            |
+| Let Sleeping Dogs Lie       | 334098 | Lets dogs lie down                                | C    |         | [![newest](https://curse.nikky.moe/api/img/334098?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/let-sleeping-dogs-lie)        |
+| Move Boats                  | 344801 | Allows pickup of boats                            |      |         | [![newest](https://curse.nikky.moe/api/img/344801?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/move-boats)                   |
+| Move Minecarts              | 344821 | Allows pickup of minecarts                        |      |         | [![newest](https://curse.nikky.moe/api/img/344821?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/move-minecarts)               |
+| Nether Portal Spread        | 342097 | Nether portal spreads nether blocks               |      |         | [![newest](https://curse.nikky.moe/api/img/342097?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/nether-portal-spread)         |
+| No Hostiles Around Campfire | 347394 | Prevents hostile mob spawns around a campfire     |      |         | [![newest](https://curse.nikky.moe/api/img/347394?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/no-hostiles-around-campfire)  |
+| Nutritious Milk             | 345184 | Enables drinking milk                             |      |         | [![newest](https://curse.nikky.moe/api/img/345184?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/nutritious-milk)              |
+| Replanting Crops            | 367051 | Auto-replants crops                               |      |         | [![newest](https://curse.nikky.moe/api/img/367051?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/replanting-crops)             |
+| Snowballs Freeze Mobs       | 344436 | Makes mobs freeze when hit with snowballs         |      |         | [![newest](https://curse.nikky.moe/api/img/344436?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/snowballs-freeze-mobs)        |
+| Softer Hay Bales            | 344178 | Prevents falling damage on hay bales              |      |         | [![newest](https://curse.nikky.moe/api/img/344178?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/softer-hay-bales)             |
+| Sound Filters               | 222789 | Realistic audio reverb                            | C    |         | [![newest](https://curse.nikky.moe/api/img/222789?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/sound-filters)                |
+| TerraForged                 | 363820 | Realistic terrain generation                      | SC   |         | [![newest](https://curse.nikky.moe/api/img/363820?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/terraforged)                  |
+| Towers Of The Wild          | 386415 | Adds towers to terrain generation                 |      |         | [![newest](https://curse.nikky.moe/api/img/386415?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild)           |
+| Villager Death Messages     | 341777 | Sends message when villagers die                  |      |         | [![newest](https://curse.nikky.moe/api/img/341777?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/villager-death-messages)      |
+| Villager Names              | 345854 | Gives villagers names                             |      |         | [![newest](https://curse.nikky.moe/api/img/345854?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/villager-names)               |
+| Waystones                   | 245755 | Adds waystones that teleport players              |      |         | [![newest](https://curse.nikky.moe/api/img/245755?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/waystones)                    |
+| Weaker Spiderwebs           | 345293 | Makes spiderwebs break when walking through them  |      |         | [![newest](https://curse.nikky.moe/api/img/345293?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/weaker-spiderwebs)            |
+The `Version` column is the version of the mod currently installed on the server. The `Newest` column is the most recent mod version that matches the server's game version.
 
 
 ## Watchlist
-These are mods that are currenlty confirmed for use on the server or under consideration once they have been updated to the server version.
+These are mods that are currenlty under consideration or confirmed for use on the server once they have been updated to the server version.
 
-| Mod | Description | Game | Type |
-| --- | ----------- | ---- | ---- | 
-| Optifine | Lighting engine overhaul | [1.14.4](https://www.optifine.net/home) | ? |
-| Backpacked | Simple backpack mod | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/backpacked) | ? |
-| Immersive Portals | See through portals | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge)| ? |
-| MixinBootstrap | Dependency for Immersive Portals | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap) | ? |
-| Nimble | 3rd person camera transitiion | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/nimble) | ? |
-| Rare Ice | Rare items enclosed in ice | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/rare-ice) | ? |
-| Disk Holder Mod | Adds a disk holder | [1.14.4](https://www.curseforge.com/minecraft/mc-mods/disc-holder) | ? |
-| Areas | Add named areas via signs | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/areas) | SC |
-| Dynamic Surroundings | Visual and audio effects | [1.14.4](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings) | ? |
-| Village Spawn Point | Set spawn to nearest village | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/village-spawn-point) | ? |
-| Hide Hands | Hides player hands using keybinding | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/hide-hands) | ? |
-| Healing Soup | Adds mushroom stew back into game | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/healing-soup) | ? |
-| Quick Paths | Allows quick creation of paths | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/quick-paths) | ? |
-| Player Tracking Compass | Adds player-tracking compass item | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/player-tracking-compass) | ? |
-| Grappling Hook | Adds grappling hook item | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/grappling-hook-mod) | ? |
-| Waystones | Adds waystones that teleport players | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/waystones) | ? |
-| Survive | Adds thirst and body temperature | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/survive) | ? |
-| Locks | Adds chest locks and lockpicking | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/locks) | ? |
-| Serene Seasons | Adds season cycles | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/serene-seasons) | SC |
-| EnhancedVisuals | Adds visual effects on injury | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals) | ? |
-| Mob Dismemberment | Makes mobs fall apart on death | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/mob-dismemberment) | ? |
-| The Aether | Adds Aether dimension | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/the-aether) | ? |
-| The Aether II | Adds Aether dimension with storyline | [1.7.10](https://www.curseforge.com/minecraft/mc-mods/the-aether-ii) | ? |
-| AtomicStryker's Battle Towers | Adds battle towers to world generation | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-battle-towers) | ? |
-| BetterPortals | Allows viewing through portals | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/betterportals) | ? |
-| Cubic Chunks | Enables unrestricted world height limit | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/opencubicchunks) | ? |
-| Damage Indicators | Shows damage dealt | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/damage-indicators-mod) | ? |
-| DimensionalDoors | Adds pocket dimensions | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/dimensionaldoors) | ? |
-| Mo' Bends | Improved player animations | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/mo-bends) | ? |
-| Storage Drawers | Adds storage drawers | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) | ? |
-| Vivecraft | Enables VR gameplay | [1.12.2](http://www.vivecraft.org/) | ? |
-| Weather, Storms & Tornadoes | Adds weather events | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes) | ? |
-| Fancy Block Particles | Adds 3D break particles | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/fancy-block-particles) | ? |
-
-
-## Alternative Mods
-These are mods that are similar to the ones currenlty installed on the server that may be swapped at a later date for whatever reason.
-
-| Mod | Description | Game | Type |
-| --- | ----------- | ---- | ---- |
-| Chestlock | Adds chest locks | [1.10.2](https://www.curseforge.com/minecraft/mc-mods/chestlock-protect-your-chests) | ? |
-| Useful Backpacks | Adds multiple-sized backpacks | [1.15.2](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks) | ? |
-| MATmos | Environmental audio effects | [1.12.2](https://www.curseforge.com/minecraft/mc-mods/matmos) | ? |
+| Mod                           | ID     | Description                             | Type | Newest                                                                                                                          |
+| ----------------------------- | ------ | --------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------- |
+| AtomicStryker's Battle Towers | 227877 | Adds battle towers to world generation  |      | [![newest](https://curse.nikky.moe/api/img/227877)](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-battle-towers)  |
+| BetterPortals                 | 322948 | Allows viewing through portals          |      | [![newest](https://curse.nikky.moe/api/img/322948)](https://www.curseforge.com/minecraft/mc-mods/betterportals)                 |
+| Chestlock                     | 243569 | Adds chest locks                        |      | [![newest](https://curse.nikky.moe/api/img/243569)](https://www.curseforge.com/minecraft/mc-mods/chestlock-protect-your-chests) |
+| Cubic Chunks                  | 292243 | Enables unrestricted world height limit |      | [![newest](https://curse.nikky.moe/api/img/292243)](https://www.curseforge.com/minecraft/mc-mods/opencubicchunks)               |
+| Damage Indicators             | 59489  | Shows damage dealt                      |      | [![newest](https://curse.nikky.moe/api/img/59489)](https://www.curseforge.com/minecraft/mc-mods/damage-indicators-mod)          |
+| DimensionalDoors              | 284876 | Adds pocket dimensions                  |      | [![newest](https://curse.nikky.moe/api/img/284876)](https://www.curseforge.com/minecraft/mc-mods/dimensionaldoors)              |
+| Disk Holder Mod               | 351587 | Adds a disk holder                      |      | [![newest](https://curse.nikky.moe/api/img/351587)](https://www.curseforge.com/minecraft/mc-mods/disc-holder)                   |
+| Dynamic Surroundings          | 238891 | Visual and audio effects                |      | [![newest](https://curse.nikky.moe/api/img/238891)](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)          |
+| EnhancedVisuals               | 255389 | Adds visual effects on injury           |      | [![newest](https://curse.nikky.moe/api/img/255389)](https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals)               |
+| Fancy Block Particles         | 254441 | Adds 3D break particles                 |      | [![newest](https://curse.nikky.moe/api/img/254441)](https://www.curseforge.com/minecraft/mc-mods/fancy-block-particles)         |
+| Grappling Hook                | 238911 | Adds grappling hook item                |      | [![newest](https://curse.nikky.moe/api/img/238911)](https://www.curseforge.com/minecraft/mc-mods/grappling-hook-mod)            |
+| Healing Soup                  | 347986 | Adds mushroom stew back into game       |      | [![newest](https://curse.nikky.moe/api/img/347986)](https://www.curseforge.com/minecraft/mc-mods/healing-soup)                  |
+| Hide Hands                    | 379688 | Hides player hands using keybinding     |      | [![newest](https://curse.nikky.moe/api/img/379688)](https://www.curseforge.com/minecraft/mc-mods/hide-hands)                    |
+| Immersive Portals             | 355440 | See through portals                     |      | [![newest](https://curse.nikky.moe/api/img/355440)](https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge)   |
+| Locks                         | 253456 | Adds chest locks and lockpicking        |      | [![newest](https://curse.nikky.moe/api/img/253456)](https://www.curseforge.com/minecraft/mc-mods/locks)                         |
+| MATmos                        | 366256 | Environmental audio effects             |      | [![newest](https://curse.nikky.moe/api/img/366256)](https://www.curseforge.com/minecraft/mc-mods/matmos)                        |
+| MixinBootstrap                | 357178 | Dependency for Immersive Portals        |      | [![newest](https://curse.nikky.moe/api/img/357178)](https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap)                |
+| Mo' Bends                     | 231347 | Improved player animations              |      | [![newest](https://curse.nikky.moe/api/img/231347)](https://www.curseforge.com/minecraft/mc-mods/mo-bends)                      |
+| Mob Dismemberment             | 229067 | Makes mobs fall apart on death          |      | [![newest](https://curse.nikky.moe/api/img/229067)](https://www.curseforge.com/minecraft/mc-mods/mob-dismemberment)             |
+| Nimble                        | 311927 | 3rd person camera transitiion           |      | [![newest](https://curse.nikky.moe/api/img/311927)](https://www.curseforge.com/minecraft/mc-mods/nimble)                        |
+| Optifine                      | -      | Lighting engine overhaul                |      | https://www.optifine.net/home                                                                                                   |
+| Player Tracking Compass       | 377858 | Adds player-tracking compass item       |      | [![newest](https://curse.nikky.moe/api/img/377858)](https://www.curseforge.com/minecraft/mc-mods/player-tracking-compass)       |
+| Quick Paths                   | 382877 | Allows quick creation of paths          |      | [![newest](https://curse.nikky.moe/api/img/382877)](https://www.curseforge.com/minecraft/mc-mods/quick-paths)                   |
+| Rare Ice                      | 373774 | Rare items enclosed in ice              |      | [![newest](https://curse.nikky.moe/api/img/373774)](https://www.curseforge.com/minecraft/mc-mods/rare-ice)                      |
+| Serene Seasons                | 291874 | Adds season cycles                      | SC   | [![newest](https://curse.nikky.moe/api/img/291874)](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)                |
+| Storage Drawers               | 223852 | Adds storage drawers                    |      | [![newest](https://curse.nikky.moe/api/img/223852)](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)               |
+| Survive                       | 367337 | Adds thirst and body temperature        |      | [![newest](https://curse.nikky.moe/api/img/367337)](https://www.curseforge.com/minecraft/mc-mods/survive)                       |
+| The Aether                    | 255308 | Adds Aether dimension                   |      | [![newest](https://curse.nikky.moe/api/img/255308)](https://www.curseforge.com/minecraft/mc-mods/the-aether)                    |
+| The Aether II                 | 223796 | Adds Aether dimension with storyline    |      | [![newest](https://curse.nikky.moe/api/img/223796)](https://www.curseforge.com/minecraft/mc-mods/the-aether-ii)                 |
+| Useful Backpacks              | 274338 | Adds multiple-sized backpacks           |      | [![newest](https://curse.nikky.moe/api/img/274338)](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)              |
+| Village Spawn Point           | 347381 | Set spawn to nearest village            |      | [![newest](https://curse.nikky.moe/api/img/347381)](https://www.curseforge.com/minecraft/mc-mods/village-spawn-point)           |
+| Vivecraft                     | -      | Enables VR gameplay                     |      | http://www.vivecraft.org/                                                                                                       |
+| Weather, Storms & Tornadoes   | 237746 | Adds weather events                     |      | [![newest](https://curse.nikky.moe/api/img/237746)](https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes)      |
 
 
 ## Mod Types
-| Type | Description |
-| ---- | ----------- |
-| S | Server-only mod |
-| C | Client-only mod |
-| SC | Server and client mod |
-| ? | Unconfirmed |
+| Type | Description           |
+| ---- | --------------------- |
+| C    | Client-only mod       |
+| S    | Server-only mod       |
+| SC   | Server and client mod |
 
-In the event a mod has an unconfirmed type, it is assumed to be SC until found out otherwise.
+If a mod has an unconfirmed type, it is assumed to be SC until found out otherwise.
+
 
 ## Blacklist
 These mods have been deemed too radical to be accepted into the modpack.
-* Milk All The Mobs [1.15.2](https://www.curseforge.com/minecraft/mc-mods/milk-all-the-mobs)
-* Mooshroom Spawn [1.15.2](https://www.curseforge.com/minecraft/mc-mods/mooshroom-spawn)
-* Mooshroom Tweaks [1.15.2](https://www.curseforge.com/minecraft/mc-mods/mooshroom-tweaks)
-* More Zombie Villagers [1.15.2](https://www.curseforge.com/minecraft/mc-mods/more-zombie-villagers)
-* Naturally Charged Creepers [1.15.2](https://www.curseforge.com/minecraft/mc-mods/naturally-charged-creepers)
-* Omega Mute [1.15.2](https://www.curseforge.com/minecraft/mc-mods/omega-mute)
-* Paper Books [1.15.2](https://www.curseforge.com/minecraft/mc-mods/paper-books)
-* Passive Endermen [1.15.2](https://www.curseforge.com/minecraft/mc-mods/passive-endermen)
-* Pet Names [1.15.2](https://www.curseforge.com/minecraft/mc-mods/pet-names)
-* Random Bone Meal Flowers [1.15.2](https://www.curseforge.com/minecraft/mc-mods/random-bone-meal-flowers)
-* Shulker Drops Two [1.15.2](https://www.curseforge.com/minecraft/mc-mods/shulker-drops-two)
-* Silence Mobs [1.15.2](https://www.curseforge.com/minecraft/mc-mods/silence-mobs)
-* Skeleton Horse Spawn [1.15.2](https://www.curseforge.com/minecraft/mc-mods/skeleton-horse-spawn)
-* Sleep Sooner [1.15.2](https://www.curseforge.com/minecraft/mc-mods/sleep-sooner)
-* Smaller Nether Portals [1.15.2](https://www.curseforge.com/minecraft/mc-mods/smaller-nether-portals)
-* Stray Spawn [1.15.2](https://www.curseforge.com/minecraft/mc-mods/stray-spawn)
-* TNT Breaks Bedrock [1.15.2](https://www.curseforge.com/minecraft/mc-mods/tnt-breaks-bedrock)
-* Transcending Trident [1.15.2](https://www.curseforge.com/minecraft/mc-mods/transcending-trident)
-* Tree Harvester [1.15.2](https://www.curseforge.com/minecraft/mc-mods/tree-harvester) (might conflict with FallingTree)
-* Underwater Enchanting [1.15.2](https://www.curseforge.com/minecraft/mc-mods/underwater-enchanting)
-* Zombie Horse Spawn [1.15.2](https://www.curseforge.com/minecraft/mc-mods/zombie-horse-spawn)
-* Zombie Villagers From Spawner [1.15.2](https://www.curseforge.com/minecraft/mc-mods/zombie-villagers-from-spawner)
-* Spiders Produce Webs [1.15.2](https://www.curseforge.com/minecraft/mc-mods/spiders-produce-webs)
-* Kelp Fertilizer [1.15.2](https://www.curseforge.com/minecraft/mc-mods/kelp-fertilizer)
-* Grindstone Sharper Tools [1.15.2](https://www.curseforge.com/minecraft/mc-mods/grindstone-sharper-tools)
+
+| Mod                           | Source                                                                             |
+| ----------------------------- | ---------------------------------------------------------------------------------- |
+| Grindstone Sharper Tools      | [link](https://www.curseforge.com/minecraft/mc-mods/grindstone-sharper-tools)      |
+| Kelp Fertilizer               | [link](https://www.curseforge.com/minecraft/mc-mods/kelp-fertilizer)               |
+| Milk All The Mobs             | [link](https://www.curseforge.com/minecraft/mc-mods/milk-all-the-mobs)             |
+| Mooshroom Spawn               | [link](https://www.curseforge.com/minecraft/mc-mods/mooshroom-spawn)               |
+| Mooshroom Tweaks              | [link](https://www.curseforge.com/minecraft/mc-mods/mooshroom-tweaks)              |
+| More Zombie Villagers         | [link](https://www.curseforge.com/minecraft/mc-mods/more-zombie-villagers)         |
+| Naturally Charged Creepers    | [link](https://www.curseforge.com/minecraft/mc-mods/naturally-charged-creepers)    |
+| Omega Mute                    | [link](https://www.curseforge.com/minecraft/mc-mods/omega-mute)                    |
+| Paper Books                   | [link](https://www.curseforge.com/minecraft/mc-mods/paper-books)                   |
+| Passive Endermen              | [link](https://www.curseforge.com/minecraft/mc-mods/passive-endermen)              |
+| Pet Names                     | [link](https://www.curseforge.com/minecraft/mc-mods/pet-names)                     |
+| Random Bone Meal Flowers      | [link](https://www.curseforge.com/minecraft/mc-mods/random-bone-meal-flowers)      |
+| Shulker Drops Two             | [link](https://www.curseforge.com/minecraft/mc-mods/shulker-drops-two)             |
+| Silence Mobs                  | [link](https://www.curseforge.com/minecraft/mc-mods/silence-mobs)                  |
+| Skeleton Horse Spawn          | [link](https://www.curseforge.com/minecraft/mc-mods/skeleton-horse-spawn)          |
+| Sleep Sooner                  | [link](https://www.curseforge.com/minecraft/mc-mods/sleep-sooner)                  |
+| Smaller Nether Portals        | [link](https://www.curseforge.com/minecraft/mc-mods/smaller-nether-portals)        |
+| Spiders Produce Webs          | [link](https://www.curseforge.com/minecraft/mc-mods/spiders-produce-webs)          |
+| Stray Spawn                   | [link](https://www.curseforge.com/minecraft/mc-mods/stray-spawn)                   |
+| TNT Breaks Bedrock            | [link](https://www.curseforge.com/minecraft/mc-mods/tnt-breaks-bedrock)            |
+| Transcending Trident          | [link](https://www.curseforge.com/minecraft/mc-mods/transcending-trident)          |
+| Tree Harvester                | [link](https://www.curseforge.com/minecraft/mc-mods/tree-harvester)                |
+| Underwater Enchanting         | [link](https://www.curseforge.com/minecraft/mc-mods/underwater-enchanting)         |
+| Zombie Horse Spawn            | [link](https://www.curseforge.com/minecraft/mc-mods/zombie-horse-spawn)            |
+| Zombie Villagers From Spawner | [link](https://www.curseforge.com/minecraft/mc-mods/zombie-villagers-from-spawner) |
+
 
 ## TODO
 * Github badge for server status (online/offline)
@@ -191,3 +193,4 @@ These mods have been deemed too radical to be accepted into the modpack.
 * Automatic updating of listed mod versions
 * ~~Arrange mod lists into tables~~
 * Github badge for total mod count
+* Automate sync between cloud storage mods and dropbox hosted mods

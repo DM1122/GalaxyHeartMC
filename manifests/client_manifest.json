@@ -1,0 +1,255 @@
+{
+    "minecraft": "1.15.2",
+    "mods": [
+        {
+            "name": "AmbientSounds 3",
+            "id": "254284",
+            "type": "C"
+        },
+        {
+            "name": "AppleSkin",
+            "id": "248787",
+            "type": "SC"
+        },
+        {
+            "name": "Areas",
+            "id": "391701",
+            "type": "SC"
+        },
+        {
+            "name": "Backpacked",
+            "id": "352835",
+            "type": ""
+        },
+        {
+            "name": "Bamboo Spreads",
+            "id": "378983",
+            "type": ""
+        },
+        {
+            "name": "Bottle Your XP",
+            "id": "344020",
+            "type": ""
+        },
+        {
+            "name": "CC: Tweaked",
+            "id": "282001",
+            "type": ""
+        },
+        {
+            "name": "Collective",
+            "id": "342584",
+            "type": ""
+        },
+        {
+            "name": "Crying Ghasts",
+            "id": "344360",
+            "type": ""
+        },
+        {
+            "name": "Cycle Paintings",
+            "id": "345973",
+            "type": ""
+        },
+        {
+            "name": "Despawning Eggs Hatch",
+            "id": "347608",
+            "type": ""
+        },
+        {
+            "name": "Dismount Entity",
+            "id": "348262",
+            "type": ""
+        },
+        {
+            "name": "Double Doors",
+            "id": "348831",
+            "type": ""
+        },
+        {
+            "name": "Dragon Drops Elytra",
+            "id": "302422",
+            "type": ""
+        },
+        {
+            "name": "Easy Elytra",
+            "id": "347898",
+            "type": ""
+        },
+        {
+            "name": "Edibles",
+            "id": "374240",
+            "type": ""
+        },
+        {
+            "name": "Elenai Dodge",
+            "id": "373104",
+            "type": ""
+        },
+        {
+            "name": "Extract Poison",
+            "id": "344991",
+            "type": ""
+        },
+        {
+            "name": "Fall Through Slime",
+            "id": "344421",
+            "type": ""
+        },
+        {
+            "name": "Falling Tree",
+            "id": "349559",
+            "type": ""
+        },
+        {
+            "name": "GUI Clock",
+            "id": "347529",
+            "type": ""
+        },
+        {
+            "name": "GUI Compass",
+            "id": "347595",
+            "type": "C"
+        },
+        {
+            "name": "Giant Spawn",
+            "id": "347921",
+            "type": ""
+        },
+        {
+            "name": "GoProne",
+            "id": "327968",
+            "type": "SC"
+        },
+        {
+            "name": "Grass Seeds",
+            "id": "345981",
+            "type": ""
+        },
+        {
+            "name": "Gravestone",
+            "id": "238551",
+            "type": ""
+        },
+        {
+            "name": "Healing Campfire",
+            "id": "342623",
+            "type": ""
+        },
+        {
+            "name": "Ice Prevents Crop Growth",
+            "id": "390161",
+            "type": ""
+        },
+        {
+            "name": "Infernal Mobs",
+            "id": "227875",
+            "type": ""
+        },
+        {
+            "name": "Inventory Profiles",
+            "id": "347463",
+            "type": "C"
+        },
+        {
+            "name": "Inventory Totem",
+            "id": "349071",
+            "type": ""
+        },
+        {
+            "name": "Just Mob Heads",
+            "id": "293320",
+            "type": ""
+        },
+        {
+            "name": "Just Player Heads",
+            "id": "303441",
+            "type": ""
+        },
+        {
+            "name": "Let Sleeping Dogs Lie",
+            "id": "334098",
+            "type": "C"
+        },
+        {
+            "name": "Move Boats",
+            "id": "344801",
+            "type": ""
+        },
+        {
+            "name": "Move Minecarts",
+            "id": "344821",
+            "type": ""
+        },
+        {
+            "name": "Nether Portal Spread",
+            "id": "342097",
+            "type": ""
+        },
+        {
+            "name": "No Hostiles Around Campfire",
+            "id": "347394",
+            "type": ""
+        },
+        {
+            "name": "Nutritious Milk",
+            "id": "345184",
+            "type": ""
+        },
+        {
+            "name": "Replanting Crops",
+            "id": "367051",
+            "type": ""
+        },
+        {
+            "name": "Snowballs Freeze Mobs",
+            "id": "344436",
+            "type": ""
+        },
+        {
+            "name": "Softer Hay Bales",
+            "id": "344178",
+            "type": ""
+        },
+        {
+            "name": "Sound Filters",
+            "id": "222789",
+            "type": "C"
+        },
+        {
+            "name": "TerraForged",
+            "id": "363820",
+            "type": "SC"
+        },
+        {
+            "name": "Towers Of The Wild",
+            "id": "386415",
+            "type": ""
+        },
+        {
+            "name": "Villager Death Messages",
+            "id": "341777",
+            "type": ""
+        },
+        {
+            "name": "Villager Names",
+            "id": "345854",
+            "type": ""
+        },
+        {
+            "name": "Waystones",
+            "id": "245755",
+            "type": ""
+        },
+        {
+            "name": "Weaker Spiderwebs",
+            "id": "345293",
+            "type": ""
+        },
+        {
+            "name": "The Version column is the version of the mod currently installed on the server. The Newest column is the most recent mod version that matches the server's game version.",
+            "id": "",
+            "type": ""
+        }
+    ]
+}
