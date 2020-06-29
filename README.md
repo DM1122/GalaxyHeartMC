@@ -102,6 +102,7 @@ modpack.galaxyheart.net
 | Villager Names              | 345854 | Gives villagers names                             |      |         | [![newest](https://curse.nikky.moe/api/img/345854?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/villager-names)               |
 | Waystones                   | 245755 | Adds waystones that teleport players              |      |         | [![newest](https://curse.nikky.moe/api/img/245755?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/waystones)                    |
 | Weaker Spiderwebs           | 345293 | Makes spiderwebs break when walking through them  |      |         | [![newest](https://curse.nikky.moe/api/img/345293?version=1.15.2)](https://www.curseforge.com/minecraft/mc-mods/weaker-spiderwebs)            |
+
 The `Version` column is the version of the mod currently installed on the server. The `Newest` column is the most recent mod version that matches the server's game version.
 
 
