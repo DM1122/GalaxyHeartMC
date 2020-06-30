@@ -145,6 +145,8 @@ These are mods that are currenlty under consideration or confirmed for use on th
 | Vivecraft                     | -      | Enables VR gameplay                     |      | http://www.vivecraft.org/                                                                                                       |
 | Weather, Storms & Tornadoes   | 237746 | Adds weather events                     |      | [![newest](https://curse.nikky.moe/api/img/237746)](https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes)      |
 
+* Corail Tombestone https://www.curseforge.com/minecraft/mc-mods/corail-tombstone
+* Draylars battle towers https://www.curseforge.com/minecraft/mc-mods/draylars-battle-towers/files (might be fabric only)
 
 ## Mod Types
 | Type | Description           |
