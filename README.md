@@ -147,6 +147,9 @@ These are mods that are currenlty under consideration or confirmed for use on th
 
 * Corail Tombestone https://www.curseforge.com/minecraft/mc-mods/corail-tombstone
 * Draylars battle towers https://www.curseforge.com/minecraft/mc-mods/draylars-battle-towers/files (might be fabric only)
+* https://www.curseforge.com/minecraft/mc-mods/blur
+* https://www.curseforge.com/minecraft/mc-mods/sekc-physics-fabric
+* https://www.curseforge.com/minecraft/mc-mods/antique-atlas
 
 ## Mod Types
 | Type | Description           |
